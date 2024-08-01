@@ -1,0 +1,17 @@
+export REMORA_OUTDIR=/scratch/09794/kbeavers/AlphaFold_benchmarking/3013_full_Remora/remora_1862562
+export REMORA_TMPDIR=/scratch/09794/kbeavers/AlphaFold_benchmarking/3013_full_Remora/remora_1862562
+export REMORA_WARNING=1
+export REMORA_MODE=FULL
+export REMORA_PERIOD=10
+export REMORA_VERBOSE=0
+export REMORA_MONITOR_PERIOD=10
+export REMORA_SCHEDULER=slurm
+export REMORA_JOB_ID=1862562
+export REMORA_PARALLEL=0
+export REMORA_SYMMETRIC=0
+export REMORA_EFFECTIVE_PERIOD=9
+export REMORA_PLOT_RESULTS=1
+export REMORA_CUDA=1
+export REMORA_LUSTRE=1
+export REMORA_DVS=0
+#EOF
