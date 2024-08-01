@@ -1,0 +1,19 @@
+starting at: Wed Jul 31 11:20:33 CDT 2024
+
+
+=============================== REMORA SUMMARY ===============================
+ Max Virtual  Memory Per Node :  2212.93 GB
+ Max Physical Memory Per Node :    61.17 GB
+ Available Memory at time 0.0 :   238.55 GB
+ Max GPU      Memory Per Card :    40.34 MB
+ Avail GPU Card Mem at Time 0 : 40960.00 MB
+ Total Elapsed Time           :  0d 6h 56m 48s 520ms
+------------------------------------------------------------------------------
+ Max IO Load / work           :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+==============================================================================
+ Sampling Period              : 10 seconds
+ Report Directory             : R=/scratch/09794/kbeavers/AlphaFold_benchmarking/3013_full_Remora/remora_1862562
+ Google Plots HTML Index Page : $R/remora_summary.html
+==============================================================================
+
+ending at: Wed Jul 31 18:27:51 CDT 2024
